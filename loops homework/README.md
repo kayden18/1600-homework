@@ -1,0 +1,1 @@
+Loops are used to repeat lines of code as any times as needed. While loops tests the condition of the loop before running the body. Do While loops test the condition after the body. For loops have 3 sections required that runs before every loop. for each loops runs each item in the body then stops.
